@@ -1,0 +1,38 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Arrays",
+      "request": "launch",
+      "mainClass": "Arrays",
+      "projectName": "JAVA_74ab2aa5"
+    },
+    {
+      "type": "java",
+      "name": "Launch Patterns2",
+      "request": "launch",
+      "mainClass": "Patterns2",
+      "projectName": "JAVA_74ab2aa5"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/saurabh verma/OneDrive/Desktop/JAVA",
+      "program": "c:/Users/saurabh verma/OneDrive/Desktop/JAVA/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
